@@ -80,4 +80,5 @@ Footer:
 
 ![image](https://raw.githubusercontent.com/AnshumanSrivastava108/BadlaavFoundation-NGO-Website/main/Screenshots/Screenshot%20(462).png)
 
-
+## Author
+* **Anshuman Srivastava**
