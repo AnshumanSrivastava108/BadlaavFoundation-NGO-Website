@@ -81,4 +81,9 @@ Footer:
 ![image](https://raw.githubusercontent.com/AnshumanSrivastava108/BadlaavFoundation-NGO-Website/main/Screenshots/Screenshot%20(462).png)
 
 ## Author
-* **Anshuman Srivastava**
+
+**Anshuman Srivastava**
+
+* Twitter: [@Anshuman_121](https://twitter.com/Anshuman_121)
+* Github: [@AnshumanSrivastava108](https://github.com/AnshumanSrivastava108)
+* LinkedIn: [@AnshumanSrivastava108](https://www.linkedin.com/in/anshumansrivastava108)
