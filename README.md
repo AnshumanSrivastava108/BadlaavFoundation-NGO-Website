@@ -4,6 +4,11 @@ This project aims at being a complete, end-to-end solution for the functioning o
 
 Link to the Website - [Bdalaav Foundation Website](https://anshumansrivastava108.github.io/BadlaavFoundation-NGO-Website/)
 
+### Technologies Used:
+
+- HTML, CSS, Javascript
+- Libraries and Plugins - Bootstrap v4.1.3, Owl Craousel, Magnific Pop-Up, Popper.js, Slick
+
 ### Current Sections
 
 The website currently has the following sections:
