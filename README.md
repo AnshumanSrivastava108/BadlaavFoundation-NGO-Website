@@ -10,19 +10,19 @@ The website currently has the following sections:
    A small insight on our NGO. It also contains a short video giving an insight into the motivation, vision, and mission of Badlaav Foundation.
 
 2. Projects Section  
-   The major 2 projects of Badlaav are listed in this section. It includes a short description and images of the projects.
+   The major 2 projects of Badlaav are listed in this section. It also includes a short description and images of the projects.
 
 3. Join Us Section  
    This section contains a button to join Badlaav Foundation as a volunteer. The button directs to the registration form.
    
 4. Our Team Section  
-   Board members of the current year can be seen in this section. It also contains links to contact the board members via Instagram and Facebook.
+   Board members can be seen in this section. It also contains links to contact the board members via thier social media accounts.
 
 5. Testimonials Section  
-   This section contains testimonials from current and formal volunteers. Volunteers have expressed their views on the foundation and its working.
-
+   This section contains testimonials from current and formal volunteers. Volunteers have expressed their views on the foundation.
+   
 6. Blogs Section  
-   Badlaav Foundation frequently publishes blogs on topics such as child education and education crises. The section contains the latest blogs by Badlaav members.
+   Badlaav Foundation frequently publishes blogs on topics such as education crises. The section contains the latest blogs by Badlaav members.
    
 ### Goals: 
 
