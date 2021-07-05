@@ -2,7 +2,7 @@
 
 This project aims at being a complete, end-to-end solution for the functioning of a Dehradun based NGO, Badlaav Foundation, which is a not-for-profit organization founded in order to improve the lives and livelihoods of people from the vulnerable, marginalized and under-developed sections of the society. This single-page landing website is created to increase the awareness of the NGO (Badlaav Founadation) and reach as much people as possible. It was essential to have global presence that is to have online presence.
 
-## Current Sections
+### Current Sections
 
 The website currently has the following sections:
 
@@ -24,18 +24,18 @@ The website currently has the following sections:
 6. Blogs Section  
    Badlaav Foundation frequently publishes blogs on topics such as child education and education crises. The section contains the latest blogs by Badlaav members.
    
-## Goals: 
+### Goals: 
 
 - Creating NGO Awareness – Building awareness for NGO was the primary goal. The various campaigns run by the NGO lacked online visibility. It was essential to boost the online     presence of the NGO. 
 - Look for new volunteers – Look for potential volunteers or corporates who would be willing to tie up with the organization for various CSR activities.
 
-## Scalability:
+### Scalability:
 
 - It will benefit the NGO by making it easy to search for the available resources.
 - When the work of NGOs will be made easy it will in turn benefit the people as they will get the resources which they might not be able to get due to lack of proper linking
 - It will make it easy for the people who are willing to donate something because they would just have to post it on the portal without the need of going anywhere.
 
-## Screenshots of different Sections of the Website
+### Screenshots of different Sections of the Website
 
 Home: 
 
